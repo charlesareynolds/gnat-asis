@@ -1,0 +1,10 @@
+*~
+*.ali
+*.log
+*.o 
+lib/
+obj/
+tools/asistant/asistant
+tools/asistant/asistant-driver.bexch
+tools/asistant/b__asistant-driver.adb
+tools/asistant/b__asistant-driver.ads
