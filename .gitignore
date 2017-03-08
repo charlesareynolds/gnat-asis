@@ -1,8 +1,13 @@
 /lib/
 /obj/
 /tools/asistant/asistant
+/tools/gnat2xml/ada-schema.compact.xsd.new
+/tools/gnat2xml/ada-schema.xsd.new
 /tools/gnat2xml/gnat2xml
 /tools/gnat2xml/gnat2xsd
+/tools/gnat2xml/test/actual.compact/
+/tools/gnat2xml/to_share/
+/tools/gnat2xml/xml/
 /tools/gnat2xml/xml2gnat
 /tools/gnatcheck/gnatcheck
 /tools/gnatcheck/gnatcheck-docgen
@@ -10,13 +15,15 @@
 /tools/gnatmetric/gnatmetric
 /tools/gnatpp/gnatpp
 /tools/gnatstub/gnatstub
+/tools/gnatstub/gnatstub-loc.xml
 /tools/gnattest/gnattest
 /tools/tool_utils/ada_trees-factory.adb
 /tools/tool_utils/ada_trees-factory.ads
 /tools/tool_utils/ada_trees-generate_factory
-
+	
 *~
 # Generated:
+*.TMP
 *.ali
 *.bexch
 *.cswi
@@ -25,5 +32,6 @@
 *.o 
 b__*.adb
 b__*.ads
+gnatcheck*.out
 gpsauto.cgpr
 
